@@ -2,6 +2,7 @@
   <img src="banner.png" width="100%" />
 </p>
 
+
 <h1 align="center">
 Hola 👋 Soy Katherine Hermosilla
 </h1>
@@ -12,7 +13,7 @@ Hola 👋 Soy Katherine Hermosilla
 
 <p align="center">
 
-Actualmente estudiando Ingeniería en Informática en Duoc UC
+Actualmente estudiando Ingeniería en Informática en Duoc UC 🇨🇱
 
 Apasionada por la calidad de software, la ciberseguridad y la gestión de proyectos tecnológicos.
 
@@ -35,55 +36,61 @@ Siempre aprendiendo nuevas tecnologías y certificándome.
 - Selenium IDE
 - SQL
 - Testing Manual
-- Automatización de pruebas
+- Automatización de Pruebas
 - Gestión de Riesgos
-- ISO 27001
+- ISO/IEC 27001
 - Scrum
 - DevOps Foundation
 
 ---
 
-# 🏆 Certificaciones
+# 🏅 Certificaciones
 
-✅ Lead Cybersecurity Professional (LCSPC™)
-
-✅ ISO 27001 Internal Auditor
-
-✅ ISO 9001 Lead Auditor
-
-✅ Cyber Security Foundation
-
-✅ Cybersecurity Awareness Professional
-
-✅ Scrum Developer Professional
-
-✅ Scrum Foundation Professional
-
-✅ DevOps Foundation Professional
-
-✅ JavaScript Essentials 1 (Cisco)
+- 🛡️ Lead Cybersecurity Professional Certification (LCSPC™) – CertiProf
+- 🔒 Certified ISO/IEC 27001 Internal Auditor (I27001IA) – CertiProf
+- 📋 Certified ISO 9001:2015 Lead Auditor (I9001LA) – CertiProf
+- 🌐 Cyber Security Foundation Professional Certificate (CSFPC™) – CertiProf
+- 🧠 Cybersecurity Awareness Professional Certification (CAPC) – CertiProf
+- ⚙️ DevOps Foundation Professional Certification (DFPC) – CertiProf
+- 👨‍💻 Scrum Developer Professional Certification (SDPC™) – CertiProf
+- 📌 Scrum Foundation Professional Certification (SFPC™) – CertiProf
+- 💻 JavaScript Essentials 1 – Cisco Networking Academy
 
 ---
 
-# 📚 Actualmente aprendiendo
+# 🎓 Certificados de Especialidad
 
-- QA Automation
-- Selenium
-- Gestión de Proyectos (PMI)
-- Ciberseguridad
+- ✅ Certificado de Especialidad en **Calidad de Software** – Duoc UC
+- 🚧 Certificado de Especialidad en **Gestión de Proyectos TI** *(Actualmente en curso)*
 
 ---
 
+# 🚀 Actualmente
+
+- 🎓 Cursando Ingeniería en Informática en Duoc UC.
+- 📚 Realizando el Certificado de Especialidad en Gestión de Proyectos TI.
+- 🔍 Profundizando en QA, automatización de pruebas y aseguramiento de la calidad.
+- 🛡️ Fortaleciendo conocimientos en ciberseguridad y gestión de riesgos.
+- ☁️ Aprendiendo tecnologías Cloud (AWS y Azure).
+
+---
+
+# 🎯 Áreas de interés
+
+- ✅ Software Quality Assurance (QA)
+- 🔐 Cybersecurity
+- 📊 IT Project Management
+- 🤖 Test Automation
+- ☁️ Cloud Computing
+- 📈 Software Quality
+
+---
 
 # 📫 Contacto
 
-📧 correo@ejemplo.cl
+📧 **katherinehermosillaorteg@gmail.com**
 
-💼 LinkedIn
-
-🌎 Portfolio (cuando tengas)
-
----
+💼 LinkedIn www.linkedin.com/in/katherine-hermosilla-454086256
 
 <p align="center">
 
@@ -92,5 +99,5 @@ Siempre aprendiendo nuevas tecnologías y certificándome.
 </p>
 
 <p align="center">
-  🌿 “Tecnología, organización e innovación para crear mejores proyectos.” 💻
+🌿 <b>"Tecnología, organización e innovación para crear mejores proyectos."</b> 💻
 </p>
