@@ -47,7 +47,6 @@
 ## 🌟 Actualmente
 
 * 📈 Aprendiendo Gestión de Proyectos TI
-* ☁️ Aprendiendo Microsoft Azure AZ-900
 * 🔍 Explorando QA y automatización
 * 🛡️ Fortaleciendo conocimientos en ciberseguridad
 * ✨ Construyendo proyectos y creciendo cada día
