@@ -12,7 +12,7 @@ Hola 👋 Soy Katherine Hermosilla
 
 <p align="center">
 
-Actualmente estudiando Ingeniería en Informática en Duoc UC 🇨🇱
+Actualmente estudiando Ingeniería en Informática en Duoc UC
 
 Apasionada por la calidad de software, la ciberseguridad y la gestión de proyectos tecnológicos.
 
