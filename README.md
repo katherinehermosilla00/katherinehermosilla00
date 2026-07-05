@@ -93,11 +93,5 @@ Siempre aprendiendo nuevas tecnologías y certificándome.
 💼 LinkedIn www.linkedin.com/in/katherine-hermosilla-454086256
 
 <p align="center">
-
-> "Learning never stops."
-
-</p>
-
-<p align="center">
 🌿 <b>"Tecnología, organización e innovación para crear mejores proyectos."</b> 💻
 </p>
