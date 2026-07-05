@@ -2,56 +2,94 @@
   <img src="banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hola 👋 Soy Katherine Hermosilla</h1>
+<h1 align="center">
+Hola 👋 Soy Katherine Hermosilla
+</h1>
+
+<h3 align="center">
+💻 Computer Engineering Student | QA | Cybersecurity | IT Project Management
+</h3>
 
 <p align="center">
-💻 Estudiante de Ingeniería en Informática <br>
-📈 Gestión de Proyectos TI • QA • Ciberseguridad <br>
-🌿 Tecnología + naturaleza <br>
-✨ Aprendiendo y creciendo constantemente
+
+Actualmente estudiando Ingeniería en Informática en Duoc UC 🇨🇱
+
+Apasionada por la calidad de software, la ciberseguridad y la gestión de proyectos tecnológicos.
+
+Siempre aprendiendo nuevas tecnologías y certificándome.
+
 </p>
 
 ---
 
-## 🌱 Sobre mí
+# 🚀 Tecnologías
 
-* 🎓 Estudiante de Ingeniería Informática en Duoc UC
-* 📈 Interesada en Gestión de Proyectos TI y tecnología
-* 💡 Explorando QA, desarrollo y ciberseguridad
-* 🚀 Apasionada por aprender nuevas herramientas
-* 🤝 Responsable, organizada y proactiva
-* 🌿 Inspirada por la creatividad y la naturaleza
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,html,css,mysql,git,github,vscode" />
 
-## 🚀 Tecnologías
+</p>
 
-* JavaScript
-* SQL
-* Selenium IDE
-* QA Testing
-* Bases de Datos
+### También trabajo con
 
----
-
-## 🏅 Certificaciones
-
-* LCSPC™ – Lead Cybersecurity Professional
-* ISO/IEC 9001 Lead Auditor
-* ISO/IEC 27001 Internal Auditor
-* JavaScript Essentials 1
-* Certificación en Calidad de Software
+- Selenium IDE
+- SQL
+- Testing Manual
+- Automatización de pruebas
+- Gestión de Riesgos
+- ISO 27001
+- Scrum
+- DevOps Foundation
 
 ---
 
-## 🌟 Actualmente
+# 🏆 Certificaciones
 
-* 📈 Aprendiendo Gestión de Proyectos TI
-* 🔍 Explorando QA y automatización
-* 🛡️ Fortaleciendo conocimientos en ciberseguridad
-* ✨ Construyendo proyectos y creciendo cada día
+✅ Lead Cybersecurity Professional (LCSPC™)
+
+✅ ISO 27001 Internal Auditor
+
+✅ ISO 9001 Lead Auditor
+
+✅ Cyber Security Foundation
+
+✅ Cybersecurity Awareness Professional
+
+✅ Scrum Developer Professional
+
+✅ Scrum Foundation Professional
+
+✅ DevOps Foundation Professional
+
+✅ JavaScript Essentials 1 (Cisco)
 
 ---
+
+# 📚 Actualmente aprendiendo
+
+- QA Automation
+- Selenium
+- Gestión de Proyectos (PMI)
+- Ciberseguridad
+
+---
+
+
+# 📫 Contacto
+
+📧 correo@ejemplo.cl
+
+💼 LinkedIn
+
+🌎 Portfolio (cuando tengas)
+
+---
+
+<p align="center">
+
+> "Learning never stops."
+
+</p>
 
 <p align="center">
   🌿 “Tecnología, organización e innovación para crear mejores proyectos.” 💻
