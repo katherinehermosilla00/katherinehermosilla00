@@ -55,10 +55,6 @@ CertiProf
 - Lead Cybersecurity Professional (LCSPC™) · Cyber Security Foundation (CSFPC™) · Cybersecurity Awareness (CAPC™).
 Cisco Networking Academy
 - JavaScript Essentials 1.
-📊 Mi actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katherinehermosilla00&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinehermosilla00&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados en repositorios públicos" height="160" />
-</p>
+
 
 <p align="center"><i>«Tecnología, organización e innovación para crear mejores proyectos.»</i> 🌿</p>
